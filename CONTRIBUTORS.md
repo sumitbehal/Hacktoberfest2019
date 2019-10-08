@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Sumit Behal
+-Location : India
+-Bio : Machine Learning/Data Analsysis
+-Github : https://github.com/sumitbehal
+***
 
